@@ -1,0 +1,15 @@
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.csproj.AssemblyReference.cache
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.AssemblyInfoInputs.cache
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.AssemblyInfo.cs
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.csproj.CoreCompileInputs.cache
+E:\RFP COURSE\practice problems 1\practice problems 1\bin\Debug\net6.0\practice problems 1.exe
+E:\RFP COURSE\practice problems 1\practice problems 1\bin\Debug\net6.0\practice problems 1.deps.json
+E:\RFP COURSE\practice problems 1\practice problems 1\bin\Debug\net6.0\practice problems 1.runtimeconfig.json
+E:\RFP COURSE\practice problems 1\practice problems 1\bin\Debug\net6.0\practice problems 1.dll
+E:\RFP COURSE\practice problems 1\practice problems 1\bin\Debug\net6.0\practice problems 1.pdb
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.dll
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\refint\practice problems 1.dll
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.pdb
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\practice problems 1.genruntimeconfig.cache
+E:\RFP COURSE\practice problems 1\practice problems 1\obj\Debug\net6.0\ref\practice problems 1.dll
